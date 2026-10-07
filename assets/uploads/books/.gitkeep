@@ -1,0 +1,7 @@
+<?php
+// ============================================================
+// Complete CSS Style - style.css is the master stylesheet
+// This file only ensures upload subdirectories are created
+// ============================================================
+// This file intentionally left minimal.
+// All styles are in assets/css/style.css
